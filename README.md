@@ -44,16 +44,4 @@ Financeiro: Clientes com tickets mensais mais elevados possuem maior propensão 
 Clone o repositório:
 
 Bash
-git clone https://github.com/seu-usuario/challenge2-data-science.git
-Instale as dependências:
-
-Bash
-pip install pandas requests seaborn matplotlib
-Abra o notebook analise_churn_telecomX.ipynb em seu ambiente Jupyter ou Google Colab.
-
-📂 Estrutura do Repositório
-data/: (Opcional) Local para armazenamento de backups dos dados.
-
-notebooks/: Arquivo .ipynb com a análise completa.
-
-README.md: Documentação do projeto.
+git clone (https://github.com/luizaluiz/TelecomX_1.git
